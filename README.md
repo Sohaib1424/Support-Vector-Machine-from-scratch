@@ -3,7 +3,7 @@
 In this repository you can find SVM clissifier written in numpy from scratch with some theory explanation and methamatical background connected to this subject.
 SVM offers very high accuracy compared to other classifiers such as logistic regression, and decision trees.
 
-<img src="svm.png" alt="drawing" width="500px"/>
+<img src="svm.PNG" alt="drawing" width="500px"/>
 
 
 ## Getting Started   
