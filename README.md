@@ -18,7 +18,6 @@ The main file is [SVM.ipynb](SVM.ipynb)
 -matplotlib
 -sklearn
 -scipy
-
 ```
 
 ## Author
